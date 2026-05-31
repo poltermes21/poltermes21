@@ -13,10 +13,10 @@ I believe data engineering and AI are most powerful when combined — clean pipe
 ## 💼 Experience
  
 **Data Engineer @ Accenture** *(Current)*
-Working on enterprise-scale data solutions and AI-driven projects.
+Working on enterprise-scale data solutions and AI-driven projects, collaborating directly with clients to understand requirements and deliver solutions.
  
 **Co-Founder & AI/Data Engineer · Full-Stack Developer — Personal Project** *(May 2025 - present)*
-Building automation tools, AI systems, and digital platforms for clients across legal and industrial sectors.
+Building automation tools, AI systems, and digital platforms for clients.
 - **Legal Tech**: Built a Hybrid RAG + Knowledge Graph system for HR Q&A at a 300+ employee firm (Microsoft Teams bot, 200+ pages of internal docs), and an OCR pipeline processing 7,000+ sensitive documents/month.
 
 **Sales Data Engineer Intern @ Lawwwing** *(Jan 2025 - Jul 2025)*
