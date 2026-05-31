@@ -1,6 +1,6 @@
 # Hi, I'm Pol Termes Bòria 👋
 
-> *Data Engineer · ML/AI Builder · Full-Stack Developer*
+> *Data Engineer · ML/AI Engineer · Full-Stack Developer*
 
 I'm a Data Engineer passionate about building AI-powered systems that solve real-world problems.
 
