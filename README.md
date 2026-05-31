@@ -17,7 +17,7 @@ Working on enterprise-scale data solutions and AI-driven projects.
  
 **Co-Founder & AI/Data Engineer · Full-Stack Developer — Personal Project** *(May 2025 - present)*
 Building automation tools, AI systems, and digital platforms for clients across legal and industrial sectors.
-- 🏛️ **Legal Tech**: Built a Hybrid RAG + Knowledge Graph system for HR Q&A at a 300+ employee firm (Microsoft Teams bot, 200+ pages of internal docs), and an OCR pipeline processing 7,000+ sensitive documents/month.
+- **Legal Tech**: Built a Hybrid RAG + Knowledge Graph system for HR Q&A at a 300+ employee firm (Microsoft Teams bot, 200+ pages of internal docs), and an OCR pipeline processing 7,000+ sensitive documents/month.
 
 **Sales Data Engineer Intern @ Lawwwing** *(Jan 2025 - Jul 2025)*
 - Built from scratch a full lead generation pipeline using web scraping and tools like Lusha, integrating multiple data sources via APIs to automate lead collection.
