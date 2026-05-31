@@ -12,7 +12,7 @@ I believe data engineering and AI are most powerful when combined — clean pipe
 
 ## 💼 Experience
  
-**Data Engineer @ Accenture** *(Current)*
+**Data Engineer @ Accenture** *(Feb 2026 - present)*
 Working on enterprise-scale data solutions and AI-driven projects, collaborating directly with clients to understand requirements and deliver solutions.
  
 **Co-Founder & AI/Data Engineer · Full-Stack Developer — Personal Project** *(May 2025 - present)*
